@@ -23,7 +23,7 @@ div {text-align: right;
     
 }
 h2 {
-    margin: 0.5rem;
+    margin-top: 0.5rem;
 }
 
 .card {
@@ -97,6 +97,7 @@ p {
 
 h3 {
     font-family: openSansHebrew, Arial,san-serif;
+    margin:1rem;
 }
 .icon-fon_branch {
     content: "\e93e";
@@ -155,8 +156,4 @@ li {
     padding: 0.2em;
     font-size: 1.3rem;
 }
- /* #accordion { */
-     /* width: 100%; */
-
- /* }    */
     
