@@ -34,7 +34,6 @@ h2 {
 }
 .sections {
     height: 160px;
-    padding: 2rem;
 }
 .section-buttons {
    width: 100%;
@@ -59,6 +58,7 @@ h2 {
     border-radius: calc(.25rem - 1px) calc(.25rem - 1px);
     float: right;
     margin-left: 0.7%;
+    margin-top:1rem;
     margin-bottom: 1rem;
     width: 13.42%;
     height: 100%;
@@ -72,7 +72,7 @@ h2 {
         font-family: Arial,san-serif;
         position: relative;
         white-space: normal;
-        font-family: 'icomoon' !important;
+        /*font-family: 'icomoon' !important;*/
         line-height: 1;
         background-color: #3087ce;
         border: none;
