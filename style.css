@@ -59,6 +59,7 @@ h2 {
     border-radius: calc(.25rem - 1px) calc(.25rem - 1px);
     float: right;
     margin-left: 0.7%;
+    margin-bottom: 1rem;
     width: 13.42%;
     height: 100%;
     }
