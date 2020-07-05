@@ -93,11 +93,12 @@ h2 {
           }
 p {
     font-family: openSansHebrew, Arial,san-serif;
+    font-size: 1.1rem;
 }
 
 h3 {
     font-family: openSansHebrew, Arial,san-serif;
-    margin:1rem;
+    margin:0.5rem;
 }
 .icon-fon_branch {
     content: "\e93e";
