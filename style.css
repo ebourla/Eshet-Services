@@ -51,7 +51,8 @@ h2 {
     background-color: #63a9e3;
     border: none;
     color: white;
-    padding: 25px;
+    padding-top: 23px;
+    padding-bottom: 23px;
     text-align: center;
     cursor: pointer;
     -webkit-font-smoothing: antialiased;
@@ -75,7 +76,8 @@ h2 {
         background-color: #3087ce;
         border: none;
         color: white;
-        padding: 25px;
+        padding-top: 23px;
+        padding-bottom: 23px;
         text-align: center;
         cursor: pointer;
         -webkit-font-smoothing: antialiased;
