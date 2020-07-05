@@ -2,6 +2,7 @@
 .container {
     direction:rtl;
     font-size: 1.1rem;
+    font-family: Arial,san-serif;
 }
 div {text-align: right;
 }
@@ -33,21 +34,19 @@ h2 {
 }
 .sections {
     height: 161px;
-    padding-top: 0.7rem;
+    padding-top: 0.5rem;
 }
 .section-buttons {
-   width: 101%;
+   width: 100%;
    position: relative;
     
 }
 .button {
-    font-size: 1.5em;
+    font-size: 1.3rem;
     font-family: Arial,san-serif;
     position: relative;
-    height: 100%;
-    text-align: center;
     white-space: normal;
-    font-family: 'icomoon' !important;
+    /* font-family: 'icomoon' !important; */
     line-height: 1;
     background-color: #63a9e3;
     border: none;
@@ -58,8 +57,8 @@ h2 {
     -webkit-font-smoothing: antialiased;
     border-radius: calc(.25rem - 1px) calc(.25rem - 1px);
     float: right;
-    margin-left: 1%;
-    width: 15.5%;
+    margin-left: 0.7%;
+    width: 13.42%;
     height: 100%;
     }
       
@@ -67,11 +66,9 @@ h2 {
         background-color: #3087ce;
       }
       .button1 {
-        font-size: 1.5em;
+        font-size: 1.3rem;
         font-family: Arial,san-serif;
         position: relative;
-        height: 100%;
-        text-align: center;
         white-space: normal;
         font-family: 'icomoon' !important;
         line-height: 1;
@@ -84,8 +81,8 @@ h2 {
         -webkit-font-smoothing: antialiased;
         border-radius: calc(.25rem - 1px) calc(.25rem - 1px);
         float: right;
-        margin-left: 1%;
-        width: 15.5%;
+        margin-left: 0.7%;
+        width: 13.42%;
         height: 100%;
         }
           
@@ -95,9 +92,7 @@ h2 {
 p {
     font-family: openSansHebrew, Arial,san-serif;
 }
-h2 {
-    font-family: openSansHebrew, Arial,san-serif;
-}
+
 h3 {
     font-family: openSansHebrew, Arial,san-serif;
 }
@@ -156,7 +151,7 @@ h3 {
 
 li {
     padding: 0.2em;
-    font-size: 1.07rem;
+    font-size: 1.3rem;
 }
  /* #accordion { */
      /* width: 100%; */
