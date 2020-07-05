@@ -34,7 +34,7 @@ h2 {
 }
 .sections {
     height: 150px;
-    padding-top: 2rem;
+    padding: 1.5rem;
 }
 .section-buttons {
    width: 100%;
