@@ -33,7 +33,7 @@ h2 {
      margin-bottom: 1.5rem;
 }
 .sections {
-    height: 161px;
+    height: 3rem;
     padding-top: 0.5rem;
 }
 .section-buttons {
@@ -93,12 +93,12 @@ h2 {
             background-color: #63a9e3;
           }
 p {
-    font-family: openSansHebrew, Arial,san-serif;
+    font-family: Arial,san-serif;
     font-size: 1.1rem;
 }
 
 h3 {
-    font-family: openSansHebrew, Arial,san-serif;
+    font-family:Arial,san-serif;
     margin:0.5rem;
 }
 .icon-fon_branch {
