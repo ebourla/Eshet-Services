@@ -34,7 +34,7 @@ h2 {
 }
 .sections {
     height: 150px;
-    padding: 1.7rem;
+    padding: 1.9rem;
 }
 .section-buttons {
    width: 100%;
@@ -47,7 +47,7 @@ h2 {
     position: relative;
     white-space: normal;
     /* font-family: 'icomoon' !important; */
-    line-height: 1;
+    line-height: 1rem;
     background-color: #63a9e3;
     border: none;
     color: white;
